@@ -1,0 +1,4 @@
+{
+  "install": "echo skip",
+  "start": "echo ready"
+}
